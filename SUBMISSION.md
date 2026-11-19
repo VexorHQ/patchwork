@@ -61,10 +61,9 @@ deliberately. Bonus Blog is possible later if Vexor wants it.)
 
 **Demo video:** (public YouTube link — fill in after recording; under 3 minutes)
 
-**Repo:** (public GitHub URL — fill in after the repo is created under Vexor;
-must contain `/.kiro` at the root, with an open-source license)
+**Repo:** https://github.com/VexorHQ/patchwork (public; `/.kiro` at the root, LICENSE included)
 
-**Live app URL:** (fill in after hosting the static build — any static host)
+**Live app URL:** https://vexorhq.github.io/patchwork/ (GitHub Pages, branch gh-pages, live since 20 Nov 2026)
 
 ## Demo video storyboard (< 3 min)
 
@@ -82,10 +81,11 @@ Keep it under 3 minutes. Cut anything that repeats itself.
 
 ## Pre-submit checklist
 
-- [ ] Public GitHub repo under Vexor, with `/.kiro` at the root + LICENSE
-- [ ] Static build hosted somewhere public (any static host)
+- [x] Public GitHub repo under Vexor, with `/.kiro` at the root + LICENSE
+- [x] Static build hosted somewhere public (any static host)
 - [ ] Demo video recorded, uploaded to YouTube (public), under 3 minutes
 - [ ] Devpost form filled from this file, Frankenstein category selected
 - [ ] Kiro free-credit form (4,000 credits) sent before 1 Dec 2026 12:00 PT
-      — needs the Kiro account first (browser step, parent)
+      — SKIPPED by Junes 20 Nov 2026 (form requires Didit KYC: government ID
+      photo + face selfie; Junes said "Lewati saja")
 - [ ] Parent confirmed; Vexor said yes to submitting
