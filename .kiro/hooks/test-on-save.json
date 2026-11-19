@@ -1,0 +1,1 @@
+{"hooks":[{"action":{"command":"npm test","type":"command"},"description":"Runs the unit and property tests whenever a source or test file in src/ or tests/ is saved, so a broken change is caught immediately instead of at the end.","matcher":"^(src|tests)/.*\\.(js|jsx)$","name":"Test when source changes","timeout":120,"trigger":"PostFileSave"}],"version":"v1"}
